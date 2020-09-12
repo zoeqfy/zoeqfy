@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - # 自我介绍
+ 我的闪光点是遇到问题会想尽办法去解决
 - # 对计算机专业的畅想
   
 
