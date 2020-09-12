@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 自我介绍
-- 主列表1
-- 主列表2
-  1. 次列表1
-  2. 次列表2
-+ 主列表3
+
+- # 自我介绍
+- # 对计算机专业的畅想
+  
+
+
